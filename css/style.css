@@ -182,6 +182,11 @@ body{
     margin: bottom 20px;    
 }
 
+img, svg {
+    vertical-align: middle;
+    width: 100%;
+}
+
 .footer-box .fa{
     margin-right: 8px;
     font-size:25px;
